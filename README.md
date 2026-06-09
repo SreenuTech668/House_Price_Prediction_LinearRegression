@@ -1,4 +1,3 @@
-# House_Price_Prediction_LinearRegression
 # 🏠 House Price Prediction using Machine Learning
 
 ## 📌 Project Overview
